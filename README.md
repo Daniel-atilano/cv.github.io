@@ -1,4 +1,4 @@
-# cv.github.io
+# CURRICULUM VITAE
 CV professional description
 
 # DANIEL ATILANO BARBOSA
