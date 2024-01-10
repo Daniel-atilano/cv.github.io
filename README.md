@@ -3,9 +3,9 @@ CV professional description
 
 # DANIEL ATILANO BARBOSA
 
-Phone: (+52) 5530730546
 Twitter: @neuro_hippie
-dan.luchin06@gmail.com	ResearchGate: Daniel Atilano-Barbosa
+Email: dan.luchin06@gmail.com	
+ResearchGate: Daniel Atilano-Barbosa
 Querétaro, Mexico
 
 Enthusiastic and driven student specializing in Cognitive and Social Neuroscience. My research interests center around Empathy, Moral Emotions, Decision-Making, Substance Consumption, Discrimination and Violence toward minorities or marginalized populations. Currently pursuing a Ph.D. in Biomedical Sciences, I possess proficiency in (f)MRI imaging acquisition and preprocessing methods, neuropsychological evaluation, qualitative analysis, R programming, and experimental design.
