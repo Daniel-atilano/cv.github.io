@@ -3,3 +3,5 @@ plugins:
   - jekyll-remote-theme
 title: Daniel Atilano Barbosa, Ph.D.
 description: Social and Cognitive Neuroscientist | Social Brain, Multimodal Neuroimaging, Population Neuroscience
+url: "https://daniel-atilano.github.io"
+baseurl: "/cv.github.io"
