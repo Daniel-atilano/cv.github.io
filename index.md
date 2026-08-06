@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Daniel Atilano Barbosa, Ph.D."
 permalink: /
 author: "Daniel Atilano Barbosa, Ph.D."
