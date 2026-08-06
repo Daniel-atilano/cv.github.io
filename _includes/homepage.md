@@ -2,10 +2,10 @@
 # Daniel Atilano Barbosa, Ph.D.
 ## Social and Cognitive Neuroscientist
 
-- **Google Scholar:** https://scholar.google.com/citations?user=kG3vGDwAAAAJ
-- **ORCID:** https://orcid.org/0000-0003-4664-3776
-- **ResearchGate:** https://www.researchgate.net/profile/Daniel-Atilano-Barbosa
-- **GitHub:** https://github.com/Daniel-atilano
+- [**Google Scholar**](https://scholar.google.com/citations?user=kG3vGDwAAAAJ)
+- [**ORCID**](https://orcid.org/0000-0003-4664-3776)
+- [**ResearchGate:**](https://www.researchgate.net/profile/Daniel-Atilano-Barbosa)
+- [**GitHub:**](https://github.com/Daniel-atilano)
 
 
 ### *Understanding how social experiences shape the human brain through multimodal neuroimaging*
