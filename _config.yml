@@ -1,4 +1,73 @@
 theme: jekyll-theme-minimal
-title: Daniel Atilano Barbosa, Ph.D.
-Social and Cognitive Neuroscientist
-description: Studying the Social Brain through Multimodal Neuroimaging
+
+# Core site identity
+title: "Daniel Atilano Barbosa, Ph.D."
+subtitle: "Social and Cognitive Neuroscientist"
+description: "Studying the Social Brain through Multimodal Neuroimaging"
+lang: "en"
+
+# URL settings — set these for GitHub Pages or your custom domain
+# url: "https://example.com"        # full URL (no trailing slash)
+# baseurl: "/cv"                    # path on the domain, or "" for root
+url: ""
+baseurl: ""
+
+# Author / contact / social
+author:
+  name: "Daniel Atilano Barbosa, Ph.D."
+  email: "you@example.com"
+twitter_username: "your_twitter"
+github_username: "Daniel-atilano"
+
+# Social preview image (path under /assets)
+image: "/assets/images/og-image.svg"
+
+# Build / content defaults
+permalink: /
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+# Collections (optional — useful for publications, talks, resume items)
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# Plugins — GitHub Pages supports some plugins; add more if you build via GitHub Actions
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Defaults for layouts/metadata
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Daniel Atilano Barbosa, Ph.D."
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+
+# Sitemap options (used by jekyll-sitemap)
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
+
+# Note: Google Analytics settings removed from this file.
+# If you want analytics later, add either:
+# google_analytics: "G-XXXXXXXXXX"   # for GA4 (or "UA-XXXXXX-X" for Universal Analytics)
+# or add google_tag_manager: "GTM-XXXXXXX" and the appropriate script in your templates.
