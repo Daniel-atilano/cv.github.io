@@ -5,4 +5,4 @@ permalink: /
 author: "Daniel Atilano Barbosa, Ph.D."
 ---
 
-{% include_relative README.md %}
+{% include homepage.md %}
